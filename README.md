@@ -1,5 +1,5 @@
 
-This E-commerce project built on Spring Boot.<br>
+This Supermarket Management System(E-commerce project) built on Spring Boot.<br>
 
 Login: admin <br>
 Password: admin
